@@ -1,0 +1,5 @@
+PyQt5>=5.6
+sip
+stem>=1.7.1
+requests>=2.22.0
+cython
